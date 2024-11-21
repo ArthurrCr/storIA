@@ -69,6 +69,6 @@ class Story_generator:
 
 story = Story_generator()
 
-example = story.generate_story("", 50, 1.2 )
+example = story.generate_story("", 20, 1.2 )
 
 print("\n" +example+ "\n")
